@@ -31,5 +31,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 outputView.setText("Hello, " + name +
                         "\nNice to see you!");
                 break;
-        }}
+        }
+    }
 }
